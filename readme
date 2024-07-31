@@ -1,0 +1,7 @@
+Hello,
+I have created and deleted this repertory many times for almost a month to show something I can call perfect and practical. But life itself is not one hundred percent perfect or effective. Today, finally, I took the decision that this will be the last one, and I will keep it just as it is 
+Initially, the project's requirements were not very specific. The goal was to create a React application that could facilitate a game-like experience, where users respond to pre-prepared questions. These questions would have multiple answers, with only one being correct.
+To give you a better idea, the application's behavior and appearance should be similar to the website trivianerd.com.
+The application should have the backend and frontend parts.
+For the backend, I chose Nodejs and MongoDB; just by hearing these words, I felt a headache was coming, but not anymore because I did my homework and checked what I needed to understand and apply.
+The front-end decision has already been taken; I will use React and Tailwind CSS. I chose Tailwind CSS because it is like Chinese for me. :) This project will force me to understand and use it.
