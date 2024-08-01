@@ -1,4 +1,5 @@
 module.exports = {
+  // I will use this one when my website is hosted on Heroku or AWS.
   googleClientID: process.env.GOOGLE_CLIENT_ID,
   googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
   facebookClientID: process.env.FACEBOOK_CLIENT_ID,
