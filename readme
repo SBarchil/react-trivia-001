@@ -5,3 +5,12 @@ To give you a better idea, the application's behavior and appearance should be s
 The application should have the backend and frontend parts.
 For the backend, I chose Nodejs and MongoDB; just by hearing these words, I felt a headache was coming, but not anymore because I did my homework and checked what I needed to understand and apply.
 The front-end decision has already been taken; I will use React and Tailwind CSS. I chose Tailwind CSS because it is like Chinese for me. :) This project will force me to understand and use it.
+
+
+---------------------------
+I had some issues once to push to remote. It said that : ! [remote rejected] master -> master (push declined due to repository rule violations)
+after like 30 min of search and tried many times Git gave me a link where I can change the settings and tell git repository that is OK if I puch commits 
+and there is no risk . I got this. 
+after that it allowed me to push my updates.
+
+---------------------------
