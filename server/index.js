@@ -4,6 +4,8 @@ const cookieSession = require("cookie-session");
 const passport = require("passport");
 const keys = require("./config/keys");
 require("./models/User");
+require("./models/Question");
+require("./models/QuestionSet");
 require("./services/passport");
 
 mongoose.connect(keys.db);
